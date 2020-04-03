@@ -1,0 +1,8 @@
+{
+  "name": "fecolab",
+  "jsx": true,
+  "componentPath": "src/components",
+  "componentFolders": true,
+  "styleExt": "scss",
+  "redux": false
+}
